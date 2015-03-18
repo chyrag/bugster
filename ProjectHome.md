@@ -1,0 +1,1 @@
+Bugster is a P2P application to allow sharing of MP3 files across small network. The interface to the server is designed to work with XMMS and similar media players. This work is continuation of the bugster project at sourceforge. See http://sourceforge.net/projects/bugster for the historical page.
